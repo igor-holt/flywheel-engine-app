@@ -8,6 +8,17 @@ Any user can connect an EVM wallet, bind an existing NFT or ERC-20 (ownership ve
 
 This is a ledger and preview. It is not a sale of securities and not a promise of profit.
 
+## Funding Flywheel Deck (2026-09-23)
+
+Five-stage pre-seed vehicle for Kovach Enterprises / Genesis Conductor.
+
+- Source of truth: [`deck/SLIDES.md`](deck/SLIDES.md)
+- Investor PPTX (Drive): https://docs.google.com/presentation/d/1M7FPY9JEWRpl6zWf9TcBZU-0kLEpjpgb/edit
+- Analysis PDF (Drive): https://drive.google.com/file/d/1KoX_tPuS9dSwlO7PgNSTtbsGbgkDKHMO/view
+- evt- record: [`deck/evt-funding-flywheel-2026-09-23.json`](deck/evt-funding-flywheel-2026-09-23.json)
+
+Ask: $500k–$2.0M at $8–12M cap. 90-day eigenplane: KRONEX retail → Akash telemetry → Ethereum ESP → hyperscaler kernel M&A.
+
 ## Grok Build + xurl
 
 ```toml

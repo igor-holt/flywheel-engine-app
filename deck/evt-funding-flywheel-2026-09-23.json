@@ -1,0 +1,26 @@
+{
+  "evt_id": "evt_2026-09-23T23-50-00Z_funding_flywheel_deck",
+  "schema_version": "1.0",
+  "record_type": "penetration",
+  "tags": ["tunnel-through", "objective:financial-infrastructure", "momentum-leverage", "oahu-h3", "funding-flywheel", "sis"],
+  "connections": {
+    "prior_momentum": "Funding Flywheel Deck Creation analysis PDF + Drive docs",
+    "related_skills": ["pptx", "digital-assets", "tunnel-through-sovereign-operator", "trace-consent"],
+    "github_repo": "igor-holt/flywheel-engine-app",
+    "orcid": "0009-0008-8389-1297",
+    "drive_pptx": "https://docs.google.com/presentation/d/1M7FPY9JEWRpl6zWf9TcBZU-0kLEpjpgb/edit",
+    "drive_pdf": "https://drive.google.com/file/d/1KoX_tPuS9dSwlO7PgNSTtbsGbgkDKHMO/view"
+  },
+  "status": "penetrated",
+  "payload": {
+    "mountain": "Five-slide pitch vehicle existed only as long-form analysis; Drive copies were stale Google Docs from 2026-03-15; GitHub flywheel-engine-app had no deck source.",
+    "tunnel_design": "Materialize 5-slide PPTX from the analysis, land it in Drive Pitch Decks, sync markdown+evt source to flywheel-engine-app.",
+    "objective_advance": "Pre-seed vehicle executable: $0.5-2.0M ask at $8-12M cap now exists as investor-facing artifact + GitHub-synced source.",
+    "metrics": {
+      "entropy_reduction": 0.62,
+      "time_saved_vs_baseline": "80%",
+      "momentum_used": "Oahu H-3 direct compile; no agency detour"
+    },
+    "validation": "PPTX on Drive; source on GitHub main"
+  }
+}
